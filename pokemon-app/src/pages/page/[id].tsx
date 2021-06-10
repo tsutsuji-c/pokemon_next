@@ -1,10 +1,7 @@
-import { DefaultLayout } from "../../components/templates/DefaultLayout"
+import { DefaultLayout } from "../../components/templates/defaultLayout"
 
 export default function Page() {
   return (
-    <DefaultLayout>
-
       <div>HellowWorld</div>
-    </DefaultLayout>
   )
 }
